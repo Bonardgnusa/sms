@@ -1,2 +1,0 @@
-# sms
-sistem sms
